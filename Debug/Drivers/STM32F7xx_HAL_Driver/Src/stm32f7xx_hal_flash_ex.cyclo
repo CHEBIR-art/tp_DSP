@@ -1,0 +1,17 @@
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:174:19:HAL_FLASHEx_Erase	6
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:247:19:HAL_FLASHEx_Erase_IT	3
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:303:19:HAL_FLASHEx_OBProgram	9
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:402:6:HAL_FLASHEx_OBGetConfig	1
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:657:13:FLASH_MassErase	1
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:688:6:FLASH_Erase_Sector	4
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:729:17:FLASH_OB_GetWRP	1
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:763:26:FLASH_OB_UserConfig	2
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:801:17:FLASH_OB_GetUser	1
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:824:26:FLASH_OB_EnableWRP	2
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:860:26:FLASH_OB_DisableWRP	2
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:891:26:FLASH_OB_RDP_LevelConfig	2
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:919:26:FLASH_OB_BOR_LevelConfig	1
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:950:26:FLASH_OB_BootAddressConfig	3
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:983:16:FLASH_OB_GetRDP	3
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:1011:17:FLASH_OB_GetBOR	1
+../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c:1034:17:FLASH_OB_GetBootAddress	2

@@ -1,0 +1,14 @@
+D:/Users/user/Desktop/Template_TP_DSP/Drivers/CMSIS/Include/core_cm7.h:2073:22:SCB_EnableICache	4	static,ignoring_inline_asm
+D:/Users/user/Desktop/Template_TP_DSP/Drivers/CMSIS/Include/core_cm7.h:2123:22:SCB_EnableDCache	24	static,ignoring_inline_asm
+../Src/main.c:55:6:passThrough	8	static
+../Src/main.c:71:6:echo	16	static
+../Src/main.c:107:6:reverberation	16	static
+../Src/main.c:144:10:calculNbEchPeriod	16	static
+../Src/main.c:150:10:calculNbEchNote	16	static
+../Src/main.c:157:6:notePlayClassic	32	static
+../Src/main.c:175:6:musicPlay	24	static
+../Src/main.c:186:6:initSinusTable	24	static
+../Src/main.c:195:7:notePlayDDS	24	static
+../Src/main.c:218:7:audioCreate	72	static
+../Src/main.c:251:7:audioTablePlay	16	static
+../Src/main.c:268:5:main	8	static
